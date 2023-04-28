@@ -32,3 +32,4 @@ Stack a ser utilizada:
 - https://nextjs.org/docs
 - https://tailwindcss.com/
 - https://tailwindui.com/components/application-ui/forms/form-layouts
+- https://lucide.dev/
