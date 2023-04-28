@@ -28,7 +28,7 @@ export default async function Acoes() {
       )}
 
       <div>
-        <p>Faça parte dessa Comunidade doando ou sendo voluntario</p>
+        <p>Faça parte dessa ação doando ou sendo voluntario</p>
         <div className="flex justify-evenly mt-3">
           <button className="bg-teal-500 rounded-xl px-3 py-1"><Link href={'/doacao'}>Faça uma Doação</Link></button>
           <button className="bg-teal-500 rounded-xl px-3 py-1"><Link href={'/voluntario'}>Seja Voluntario</Link></button>
