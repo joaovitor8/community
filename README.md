@@ -1,4 +1,4 @@
-# comunidade
+# Comunidade
 
 Case fictício - Processo Seletivo 2023 - Brasil Cursinhos - Área de Tecnologia
 
